@@ -63,8 +63,8 @@ AI assistant that helps clinics:
 
 GitHub: https://github.com/zainhaider-ai
 
-LinkedIn: Add your LinkedIn profile link
+LinkedIn: linkedin.com/in/zaynhyder/
 
----
+
 
 ⭐ Building AI automation systems for modern businesses.
