@@ -63,7 +63,7 @@ AI assistant that helps clinics:
 
 GitHub: https://github.com/zainhaider-ai
 
-LinkedIn: linkedin.com/in/zaynhyder/
+LinkedIn: https://www.linkedin.com/in/zaynhyder/
 
 
 
